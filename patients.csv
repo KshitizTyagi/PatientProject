@@ -1,0 +1,5 @@
+PatientID,Name,Age,Disease,BillAmount
+1,John Doe,30,Flu,200
+2,Alice Smith,25,Diabetes,1500
+3,Bob Johnson,45,Fracture,3000
+4,Mary Brown,50,Cancer,5000
